@@ -1,4 +1,4 @@
-Download and install NodeJS<br/>
+Download and <a href="https://nodejs.org/en/download/">install NodeJS</a><br/>
 Download these files close to your .git directory and run CostCalculator.bat.<br/>
 It will list the contributors and the calculated time and price over the current project like bellow:<br/><br/>
 
