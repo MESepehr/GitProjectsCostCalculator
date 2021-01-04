@@ -80,7 +80,7 @@ function logsLoaded(err, data){
             lastTime = new Date(cDate) ;
         }
 
-        console.log("Working time in houre: "+roundedTime(sumInMilisecond))
+        console.log("Working time in houre: "+roundedTime(sumInMilisecond));
         totalTimeOnProject+=sumInMilisecond;
     }
 
